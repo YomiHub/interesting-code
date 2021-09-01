@@ -1,2 +1,2 @@
 # interesting-code
-一些好玩的效果
+一些入门时写写的代码
